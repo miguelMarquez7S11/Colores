@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="titulo">Practica de Colores</string>
+    <string name="boton1">Agregar Color Nuevo</string>
+    <string name="boton2">Mostrar Colores Guardados</string>
+    <string name="agregar">Agregar Color</string>
+    <string name="campoTexto">Agregar Nuevo color</string>
+    <string name="atras">REGRESAR</string>
+    <string name="color">Selecciona Color</string>
+    <string name="mos">Mostrar Color</string>
+    <string name="color22">Incorrecto Campo vacio</string>
+</resources>
